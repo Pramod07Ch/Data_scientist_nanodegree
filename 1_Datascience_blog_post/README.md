@@ -1,12 +1,12 @@
 # Data Science blog post
 Indetail explanation of work can be found on Medium [article](https://medium.com/@pramodch/does-airbnb-prices-have-impact-in-seattle-kaggle-airbnb-seattle-data-de37d8a5ea8) written by me.
-### Introduction
+### Introduction / Motivation
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
  In this project, the dataset consists of 3 parts 
  * Listings includes full descriptions and average review score
  * Reviews, including unique id for each reviewer and detailed comments
  * Calendar, including listing id and the price and availability for that day
- During analysis, i have tried to answer three questions related to price:
+ ##### During analysis, i have tried to answer three questions related to price:
  * Price variation in Seattle — weekly, monthly etc.
  * Does review score given by users depends on price?
  * How does Price per person per night stay varies among neighborhood in Seattle
