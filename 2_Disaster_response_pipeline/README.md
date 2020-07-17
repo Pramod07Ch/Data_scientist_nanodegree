@@ -35,8 +35,10 @@ The steps followed before the web app are:
 	In this step, the avaibale data (.csv files) are processed and merged together. The processed file is saved as databasefile. 
 
 2. Machine learning pipeline
+
 	In this step, the data is loaded from the database. Text processing, feature extraction is followed. Then a classifier is trained in a way that it can classify a givne message to particular category. Model is saved as .pkl file.
 
 3. Web app (Flask)
+
 	The model is then deployed using flask. It can be found [here](https://view6914b2f4-3001.udacity-student-workspaces.com/)
 
